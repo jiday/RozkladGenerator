@@ -10,9 +10,15 @@ import java.util.ArrayList;
 /**
  * @author Andriy
  * @see Connector Singleton
+<<<<<<< HEAD
  * 1
  * 1
  * 1
+=======
+ * 2
+ * 2
+ * 2
+>>>>>>> refs/remotes/origin/master
  */
 
 public class Connector {
